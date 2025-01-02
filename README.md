@@ -1,6 +1,8 @@
 ## **Game Demo**
 
-This project is a complete ping pong game with physics-based ball movement, player controls, AI opponent, and scoring system.
+- This project is a complete Ping Pong Game with physics-based ball movement, player controls, AI opponent, and scoring system.
+- It was part of **ECSE 202** - Intro to Software Development Course at **McGill University**.
+- Final Grade: **A**
 
 
 https://github.com/user-attachments/assets/a965585a-049a-45a0-aba8-27b695997db8
